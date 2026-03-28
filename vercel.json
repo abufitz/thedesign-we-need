@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "echo \"Skipping build: deploying prebuilt dist-modern\"",
+  "outputDirectory": "dist-modern"
+}
